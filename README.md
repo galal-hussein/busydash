@@ -1,5 +1,5 @@
 Linux-dash on busybox container
----
+===============================
 
 #busydash
 
@@ -8,7 +8,7 @@ A 32MB node.js busybox container from hwestphal/nodebox, with linux-dash install
 To start using it:
 
 ```
-# git clone 
+# git clone https://github.com/galal-hussein/busydash.git
 # docker build -t husseingalal/busydash busydash/
 # docker run -d -p 8000:80 hussiengalal/busydash
 ```
