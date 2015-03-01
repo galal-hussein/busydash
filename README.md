@@ -1,8 +1,6 @@
 Linux-dash on busybox container
 ===============================
 
-#busydash
-
 A 32MB node.js busybox container from hwestphal/nodebox, with linux-dash installed and ran on port 80.
 
 To start using it:
